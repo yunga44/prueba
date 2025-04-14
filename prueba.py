@@ -2,8 +2,7 @@
 radio = input("Ingrese el radio")
 radio = float(radio)
 
-pi = 6
-
+pi = 4
 
 area = pi * (radio ** 2)
 perimetro = 2 * pi * radio
