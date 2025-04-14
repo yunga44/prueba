@@ -1,10 +1,6 @@
 
-radio = input("Ingrese el radio")
-radio = float(radio)
+nombre = "Nico"
+apellido = "cheppi"
+materia = "programacion 1"
 
-pi = 4
-
-area = pi * (radio ** 2)
-perimetro = 2 * pi * radio
-
-print("El area del circulo es " , area , " y el perimetro es " , perimetro , ".")
+print(f"hola soy {nombre} {apellido} estudiante de {materia}")
